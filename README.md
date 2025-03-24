@@ -68,7 +68,7 @@ GROUP BY Location, Population, date
 ORDER BY PercentPopulationInfected DESC;
 ```
 ## Tableau Dashboard
-The SQL queries above are used to create visualizations in Tableau, including:
+Used SQL queries to create visualizations in Tableau, including:
 
 - **Global Summary of Cases & Deaths**
 - **Total Deaths By Continent**
