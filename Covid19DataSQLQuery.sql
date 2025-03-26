@@ -1,11 +1,6 @@
 Select * From PortfolioProject..CovidDeaths
 order by 3,4
 
-
-
-
-
-
 -- Looking at total Covid19 cases
 Select location, continent, date,new_cases, total_cases, total_deaths, population
 From PortfolioProject..CovidDeaths
